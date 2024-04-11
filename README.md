@@ -15,4 +15,4 @@ The following elements are tested in English, French, and German:
 * Menu text.
 * Search bar placeholder text.
 3. Browser Compatibility:
-Repeats the Screen Resolution test (originally done on Edge) on Firefox and Chrome.
+* Repeats the Screen Resolution test (originally done on Edge) on Firefox and Chrome.
